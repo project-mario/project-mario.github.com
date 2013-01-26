@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://project-mario.github.com/atom.xml" rel="self"/>
-  <link href="http://project-mario.github.com/"/>
-  <updated>2013-01-26T15:05:09+01:00</updated>
-  <id>http://project-mario.github.com/</id>
+  <title><![CDATA[Project Mario]]></title>
+  <link href="http://project-mario.org/atom.xml" rel="self"/>
+  <link href="http://project-mario.org/"/>
+  <updated>2013-01-26T15:13:41+01:00</updated>
+  <id>http://project-mario.org/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[The Project Mario Team]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

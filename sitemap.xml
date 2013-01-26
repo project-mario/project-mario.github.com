@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://project-mario.github.com/blog/archives/</loc>
-        <lastmod>2013-01-26T11:56:41+01:00</lastmod>
+        <loc>http://project-mario.org/sponsors/</loc>
+        <lastmod>2013-01-26T15:13:33+01:00</lastmod>
     </url>
     <url>
-        <loc>http://project-mario.github.com/</loc>
-        <lastmod>2013-01-26T11:56:41+01:00</lastmod>
+        <loc>http://project-mario.org/blog/archives/</loc>
+        <lastmod>2013-01-26T15:13:33+01:00</lastmod>
     </url>
     <url>
-        <loc>http://project-mario.github.com/robots.txt</loc>
+        <loc>http://project-mario.org/</loc>
+        <lastmod>2013-01-26T15:10:38+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://project-mario.org/</loc>
+        <lastmod>2013-01-26T15:13:33+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://project-mario.org/robots.txt</loc>
         <lastmod>2013-01-26T11:56:41+01:00</lastmod>
     </url>
 </urlset>
